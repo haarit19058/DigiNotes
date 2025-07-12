@@ -1,0 +1,12 @@
+# Jupyter Book Build Files
+CS328-Notes/_build
+
+# .ipynb checkpoints
+*/*/.ipynb_checkpoints
+
+# Data Files
+CS328-Notes/notebooks/data/*
+
+# MacOS folder info files
+.DS_Store/
+**/.DS_Store

@@ -1,0 +1,1 @@
+Just don't stop to learn c even though you dont have time to do. Make it compulsion.

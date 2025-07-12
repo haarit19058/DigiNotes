@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ee4f64bd96d2b482",
+    "type": "split",
+    "children": [
+      {
+        "id": "929d8fa8b9f4d5f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ddda4413c2b0a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem4/DSA - 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA - 2"
+            }
+          },
+          {
+            "id": "edd04d5a7987fca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem4/Data Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Science"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f9f076565c8bbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a368bbe7e0c213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e24e2e760baa41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "470a22726286b82e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "92854a4afa7f99de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "35b0592153bebde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e3e874a3238296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4084fccbe9037682",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "File Handling with c++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for File Handling with c++"
+            }
+          },
+          {
+            "id": "c16cad655d02ae02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "File Handling with c++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from File Handling with c++"
+            }
+          },
+          {
+            "id": "02be53230121a19f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45335807e8b5094b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "File Handling with c++.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of File Handling with c++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edd04d5a7987fca1",
+  "lastOpenFiles": [
+    "Sem4/MIT Designing algos.md",
+    "Sem4/GeoMorphoLogy.md",
+    "Sem4/DSA - 2.md",
+    "Sem4/Digital Systems.md",
+    "Sem4/Data Science.md",
+    "Sem4/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "First Impression.md",
+    "First Impression and setup.md",
+    "babbarallcodesCPP.md",
+    "Cormen/CH06-Heaps.md",
+    "Cormen",
+    "File Handling with c++.md",
+    "Notes Random.md",
+    "DSAwithC++/CodeForces Questions.md",
+    "JANUS/Untitled.md",
+    "S.md",
+    "DSAwithC++/Solving Questions.md",
+    "Standard Libs.md",
+    "SOP.md",
+    "Algos/Notes-first.md",
+    "Algos",
+    "JANUS",
+    "TheCProgrammingLanguage/Precedence order.md",
+    "DSAwithC++/OOPs.md",
+    "DSAwithC++/Learning C++.md",
+    "IICPC/STLcheatSheet.pdf",
+    "IICPC/STLCheatSheet.pdf",
+    "IICPC/STL cheatSheet.pdf",
+    "IICPC",
+    "TheCProgrammingLanguage/AssociativityTable.png",
+    "DSAwithC++",
+    "TheCProgrammingLanguage",
+    "git-cheat-sheet-education.pdf",
+    "Untitled.canvas"
+  ]
+}
