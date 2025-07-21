@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "35b0592153bebde5",
@@ -164,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31904372d7420244",
+  "active": "34e24e2e760baa41",
   "lastOpenFiles": [
-    "babbarallcodesCPP.md",
+    "Images",
+    "Pasted image 20250715140235.png",
     "StriverSheet/Step 18 Strings-Hard.md",
+    "babbarallcodesCPP.md",
     "StriverSheet",
     "Summary of CP.md",
     "Lambda/Lambda Calculus.md",
@@ -199,7 +200,6 @@
     "TheCProgrammingLanguage/Chapter5.md",
     "TheCProgrammingLanguage/Chapter6.md",
     "TheCProgrammingLanguage/Chapter4.md",
-    "TheCProgrammingLanguage/Chapter3.md",
     "IICPC/STLcheatSheet.pdf",
     "IICPC/STLCheatSheet.pdf",
     "TheCProgrammingLanguage/AssociativityTable.png",
